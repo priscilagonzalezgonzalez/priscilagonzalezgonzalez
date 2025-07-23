@@ -1,16 +1,42 @@
-## Hi there 👋
 
-<!--
-**priscilagonzalezgonzalez/priscilagonzalezgonzalez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  <h1> Hello Everyone 👋 I'm Priscila Gonzalez </h1> 
+</div>
+<div align="center"> 
+  <h3>I'm Google Cloud Associate Cloud Engineer Certified</h3> <a href="https://www.credly.com/badges/faa27c1c-b4ff-4967-bb81-b9167763abd4"> <img src="https://img.icons8.com/?size=75&id=fpGM2cINbbu4&format=png&color=000000" title="View Badge"> </img> </a>
+</div>
 
-Here are some ideas to get you started:
+# About me
+<div>
+  <p>I'm a <b> software developer </b> with a deep passion for building scalable <b> backend systems </b> and exploring the power of cloud technologies. With hands-on experience in distributed systems, <b> DevOps tools </b>, and platforms like Google Cloud, I enjoy bringing ideas to life through clean and efficient code. Outside of work, I’m also drawn to the world of video games as a creator, blending creativity and logic in <b> game development </b> projects that challenge and inspire me.</p>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Skills
+#### 🧠 Programming Languages
+
+<img src="https://img.icons8.com/?size=100&id=13441&format=png&color=000000" title="Python" width="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title="Java" width="40" /> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" title="C++" width="40" />
+
+#### 💻 Software Development
+
+<img src="https://img.icons8.com/?size=100&id=l9a5tcSnBwcf&format=png&color=000000" width="40" title="Angular"/> <img src="https://img.icons8.com/?size=100&id=HcQEdKCkXUs3&format=png&color=000000" width="40" title="TypeScript"/>
+<img src="https://img.icons8.com/?size=100&id=5mbMwDZ796xj&format=png&color=000000" width="40" title="Flask"/>
+<img src="https://img.icons8.com/?size=100&id=hUvxmdu7Rloj&format=png&color=000000" width="40" title="Laravel"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" width="40" title="Unity"/>
+
+
+#### ⚙️ Infra & DevOps Tools
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" width="40" title="Terraform"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="40" title="Kubernetes"/>
+<img src="https://img.icons8.com/?size=100&id=cdYUlRaag9G9&format=png&color=000000" width="40" title="Docker"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" title="Git"/>
+<img src="https://img.icons8.com/?size=100&id=HF4xGsjDERHf&format=png&color=000000" width="40" title="Linux"/>
+
+#### 📊 Data Analytics & Data Engineering
+
+<img src="https://img.icons8.com/?size=100&id=xSkewUSqtErH&format=png&color=000000" width="40" title="Pandas"/> <img src="https://img.icons8.com/?size=100&id=fpGM2cINbbu4&format=png&color=000000" width="40" title="Google Cloud Platform"/>
+<img src="https://img.icons8.com/?size=100&id=0cRqPqlItA0E&format=png&color=000000" width="40" title="Spark"/>
+
+
+# Projects
+
