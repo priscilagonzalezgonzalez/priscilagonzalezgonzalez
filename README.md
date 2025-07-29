@@ -39,4 +39,23 @@
 
 
 # Projects
+<div align="center">
+  <h2> 🎮 Thrones and Dragons 🎮 </h2> 
+  <p> A 2D platformer set in a fantasy world of dragons and kingdoms, built using Unity </p>
+ 
+</div>
+
+[![View Code](https://img.shields.io/badge/View%20Code-9C34C2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/priscilagonzalezgonzalez/Thrones-and-Dragons)
+![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-6E4C7E?style=for-the-badge&logo=c-sharp&logoColor=white)
+
+
+
+
+<div align="center">
+  <img src="https://github.com/priscilagonzalezgonzalez/priscilagonzalezgonzalez/blob/main/Multimedia/ThronesDragons.gif?raw=true" />
+</div>
+
+
+
 
