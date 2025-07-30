@@ -14,7 +14,7 @@
 # Skills
 #### 🧠 Programming Languages
 
-<img src="https://img.icons8.com/?size=100&id=13441&format=png&color=000000" title="Python" width="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title="Java" width="40" /> 
+<img src="https://img.icons8.com/?size=100&id=13441&format=png&color=000000" title="Python" width="40" /> <img src="https://img.icons8.com/?size=100&id=mhwmyz1eu7T5&format=png&color=000000" title="C#" width="40" /> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" title="C++" width="40" />
 
 #### 💻 Software Development
